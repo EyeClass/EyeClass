@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\ColorBasedObjectTracker",
+    "\\src\\FaceAndEyeDetection"
+  ],
+  "SelectedNode": "\\src\\FaceAndEyeDetection\\DetectFace.java",
+  "PreviewInSolutionExplorer": false
+}
